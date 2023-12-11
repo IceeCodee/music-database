@@ -1,1 +1,2 @@
 # music-database
+This repository is for a database design project. I chose to design a music database with 8 tables: musician, record label, track, songwriter, albums, listerners, streaming platforms and playlist. Each table contains a primary key denoted by tehe underlines entity. Additionally, there are 7 relationship tables. Each table represents a 1 to many or one to many relationship which can be seen in the ERD diagram. THe ERD diagram can be found in this repository named ERD.jpg. Each table was then prepopulated in MYSQL.
